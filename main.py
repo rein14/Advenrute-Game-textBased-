@@ -1,5 +1,5 @@
-from Room import Room
-from TextUI import TextUI
+from room import Room
+from textUI import TextUI
 from abc import abstractclassmethod, ABC
 
 
