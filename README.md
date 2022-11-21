@@ -6,4 +6,3 @@ simplified and converted to Python by Kingsley Sage.
 
 Basically you just move through rooms from the outside with sourvenirs planted in some rooms waiting to be found
 
-R
