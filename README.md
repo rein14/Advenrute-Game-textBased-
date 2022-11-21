@@ -1,4 +1,4 @@
-##World of Zuul
+## World of Zuul
 This game is adapted from the 'World of Zuul' by Michael Kolling
 and David J. Barnes. The original was written in Java and has been
 simplified and converted to Python by Kingsley Sage.
