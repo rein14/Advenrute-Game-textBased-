@@ -104,7 +104,7 @@ class GameOptions:
    
     def show_command_words(self):
         """
-            Show a list of available commands.
+        Show a list of available commands.
         :return: None
         """
         return ['help', 'go', 'quit']
